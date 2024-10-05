@@ -4,7 +4,7 @@
 
 **Installation**
 ```
-git clone https://github.com/nhi-nhi-nhi/simplerer_traffic_sign_detection.git
+git clone https://github.com/MonsieurNam/Autonomous_car.git
 pip install -r requirements.txt
 ```
 
